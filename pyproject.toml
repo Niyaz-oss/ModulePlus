@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "moduleplus"
+version = "1.0.0"
+description = "A Python mega-module with useful modules and helper functions"
+readme = "README.md"
+requires-python = ">=3.8"
